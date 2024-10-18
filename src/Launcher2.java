@@ -13,6 +13,7 @@ public class Launcher2 {
         System.out.println(min(a, b));
         System.out.println("jdfkd");
         System.out.println("12345");
+        System.out.println("54321");
 
 
     }
